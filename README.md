@@ -1,3 +1,5 @@
-# COVID-GRAPH
+## Covid-graph
 infected chart COVID-19
-YOU CAN ADD A REGION IF YOU FIND THE ID IN THE JSON FILE
+You can add a region ID for more info about.
+###
+<img src="https://github.com/kocierik/COVID-GRAPH/blob/master/img/covid.png" height="300px" />
